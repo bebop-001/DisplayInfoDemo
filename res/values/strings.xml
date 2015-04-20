@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">Display Info Demo</string>
+        <string name="display_info">Display Info</string>
+        <string name="about">About...</string>
+        
+</resources>
